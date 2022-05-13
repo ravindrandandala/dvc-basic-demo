@@ -1,30 +1,32 @@
 # commands used - 
 
 
-'''cmd prompt
+```cmd
 conda activate env_name
-'''
+```
 
 or
 
-'''cmd prompt
+```cmd
 source activate env_name
-'''
+```
 
-'''cmd prompt
+```cmd
 pip install dvc
-'''
+```
 
-'''cmd prompt
+```cmd
 git init
 dvc init
-'''
-'''cmd prompt
+```
+
+```cmd
 dvc init
-'''
-''' cmd repro
+```
+
+``` cmd
 dvc repro
-'''
+```
 
 
 
