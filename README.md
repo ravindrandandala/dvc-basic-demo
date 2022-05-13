@@ -1,5 +1,8 @@
 # commands used - 
 
+```cmd
+conda create -n env_name python=3.7 -y
+```
 
 ```cmd
 conda activate env_name
@@ -17,7 +20,6 @@ pip install dvc
 
 ```cmd
 git init
-dvc init
 ```
 
 ```cmd
